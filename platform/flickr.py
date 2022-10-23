@@ -1,8 +1,8 @@
 import flickrapi
 import os
 
-API_KEY = "3e01e2339aaffd45851e54a3211cc8d1"
-API_SECRET = "89f714639e495dd6"
+API_KEY = ""
+API_SECRET = ""
 
 flickr=flickrapi.FlickrAPI(API_KEY, API_SECRET, cache=True)
 
